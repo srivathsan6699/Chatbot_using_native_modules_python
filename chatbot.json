@@ -1,0 +1,17 @@
+{"intents": [
+    {"tag": "symptoms",
+    "patterns": ["symptoms", "symptoms of covid", "symptoms of covid19","symptoms of coronavirus","what are the symptoms"],
+    "responses": ["The most common symptoms of COVID-19 are fever, tiredness, and\ndry cough. Some patients may have aches and pains, nasal\ncongestion, runny nose, sore throat or diarrhea. These symptoms are\nusually mild and begin gradually. Some people become infected but\ndon’t develop any symptoms and don't feel unwell. Most people (about\n80%) recover from the disease without needing special treatment.\nAround 1 out of every 6 people who gets COVID-19 becomes seriously\nill and develops difficulty breathing. Older people, and those with\nunderlying medical problems like high blood pressure, heart problems\nor diabetes, are more likely to develop serious illness. People with fever, cough and difficulty breathing should seek medical attention."]
+    },
+    {"tag": "spread",
+    "patterns": ["how does covid spread", "covid spread", "covid"],
+    "responses": ["People can catch COVID-19 from others who have the virus, The disease can spread from person to person through small droplets from the nose or mouth which are spread when a person with COVID-19 coughs or exhales, These droplets land on objects and surfaces around the person, Other people then catch COVID-19 by touching these objects or surfaces, then touching their eyes, nose or mouth, People can also catch COVID-19 if they breathe in droplets from a person with COVID-19 who coughs out or exhales droplets,This is why it is important to stay more than 1 meter (3 feet) away from a person who is sick"]
+    },
+    {"tag" : "transmit",
+    "patterns":["how does it transmit","transmit","how does covid transmit"],
+    "responses":["Studies to date suggest that the virus that causes COVID-19 is mainly\ntransmitted through contact with respiratory droplets rather than\nthrough the air"]
+    }
+
+
+]
+}
